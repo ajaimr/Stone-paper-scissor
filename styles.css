@@ -1,0 +1,44 @@
+img{
+    background-color: black;
+}
+.common{
+    width: 200px;
+    height:200px;
+}
+.cl{
+    margin-left: 170px;
+    display: inline;
+}
+body{
+    background-color: bisque;
+}
+#p1{
+    font-size: 75px;
+    margin-left: 190px;
+    margin-bottom: 3px;
+}
+#p2{
+    font-size: 75px;
+    margin-left: 600px;
+}
+    .players{
+        padding-bottom: 30px;
+
+    }
+.heading{
+    font-size: 75px;
+    margin-bottom: 3px;
+    margin-top: 10px;
+}
+.score{
+    font-size: 50px;
+}
+.let{
+    font-size: 50px;
+}
+.sub{
+    font-size: 50px;
+}
+.ref{
+    font-size:50px;
+}
