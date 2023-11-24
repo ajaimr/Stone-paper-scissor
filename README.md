@@ -1,14 +1,14 @@
-# Stone Paper Scissors Game
+# Stone Paper Scissors Game (User vs User)
 
 ## Overview
 
-This project is a simple implementation of the classic game "Stone, Paper, Scissors" using HTML, CSS, and JavaScript. It allows users to play the game against the computer and keeps track of the score.
+This project is a simple implementation of the classic game "Stone, Paper, Scissors" where two users can take turns making selections. The game is built using HTML, CSS, and JavaScript and includes a score tracker.
 
 ## Features
 
-- **User vs. Computer:** Play the classic Stone, Paper, Scissors game against the computer.
+- **User vs User:** Play the Stone, Paper, Scissors game against another user.
 
-- **Score Tracking:** Keep track of the score to see who's winning.
+- **Score Tracking:** Keep track of the score to determine the overall winner.
 
 - **Responsive Design:** The game is designed to be responsive, ensuring a consistent experience across different devices.
 
@@ -24,9 +24,9 @@ This project is a simple implementation of the classic game "Stone, Paper, Sciss
 
 1. Open the `index.html` file in your preferred web browser.
 
-2. Click on the stone, paper, or scissors button to make your choice.
+2. Player 1 clicks on the stone, paper, or scissors button to make their choice.
 
-3. The computer will randomly choose its move.
+3. Player 2 takes their turn by clicking on their choice.
 
 4. The result of the round will be displayed, and the score will be updated.
 
